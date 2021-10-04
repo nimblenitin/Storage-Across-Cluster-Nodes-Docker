@@ -1,9 +1,9 @@
 # Storage-Across-Cluster-Nodes-Docker
 
 Steps to-
-●	Create a volume for storage on the manager node
-●	Use the volume to create a replicated service
-●	Inspect worker nodes accessing the same volume for storage across cluster nodes
+- Create a volume for storage on the manager node
+- Use the volume to create a replicated service
+- Inspect worker nodes accessing the same volume for storage across cluster nodes
 
 ```
 
